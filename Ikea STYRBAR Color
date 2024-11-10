@@ -1,3 +1,4 @@
+```yaml
 blueprint:
   name: Ikea STYRBAR automation light
   description: Turn a light on/off - increase/decrease brightness - set color and temperature
